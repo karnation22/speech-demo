@@ -1,2 +1,2 @@
 # speechdemo
-Basic speech demo for MiningLamp Technology via basic audio processing .
+Basic speech demo for MiningLamp Technology for basic audio processing .
